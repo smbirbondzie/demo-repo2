@@ -1,7 +1,7 @@
-# Demo 2:wq
+# Demo 2
 
 
-Some Description!
+Some Description - removed wq!
 
 ## Subheader
 
